@@ -13,11 +13,6 @@
 ### 1.1 Purpose
 A Colorado Board of Elections employee as given you the following tasks to complete the election audit of the recent local congressional election. 
 
-1. Calculate the total number of votes cast.
-2. Get a complete list of candidates who recieved votes.
-3. Calculate the total number of votes each candidate received.
-4. Calclate the percentage of votes each candidate won.
-5. Determine the winner of the election based on popular vote.
 
 ### 1.2 Resouces
 - Data Source: election_results.csv
@@ -25,6 +20,11 @@ A Colorado Board of Elections employee as given you the following tasks to compl
 
 <a name="Election-Audit-Results"></a>
 ## Election Audit Results
+* Calculate the total number of votes cast.
+* Get a complete list of candidates who recieved votes.
+* Calculate the total number of votes each candidate received.
+* Calclate the percentage of votes each candidate won.
+* Determine the winner of the election based on popular vote.
 
 <a name="Election-Audit-Summary"></a>
 ## Election Audit Summary
