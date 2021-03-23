@@ -1,14 +1,14 @@
 # Election_Analysis
 
 ## Table of Contents
-- [1.0 Project Overview](#Project Overview)
+- [1.0 Project Overview](#Project-Overview)
   * 1.1 Purpose
   * 1.2 Resources
 - [2.0 Election Audit Results](#Election Audit Results)
 
 - [3.0 Election Audit Summary](#Election Audit Summary)
 
-<a name="Project Overview"></a>
+<a name="Project-Overview"></a>
 ## Project Overview
 ### 1.1 Purpose
 A Colorado Board of Elections employee as given you the following tasks to complete the election audit of the recent local congressional election. 
