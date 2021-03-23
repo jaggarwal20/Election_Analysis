@@ -4,9 +4,9 @@
 - [1.0 Project Overview](#Project-Overview)
   * 1.1 Purpose
   * 1.2 Resources
-- [2.0 Election Audit Results](#Election Audit Results)
+- [2.0 Election Audit Results](#Election-Audit-Results)
 
-- [3.0 Election Audit Summary](#Election Audit Summary)
+- [3.0 Election Audit Summary](#Election-Audit-Summary)
 
 <a name="Project-Overview"></a>
 ## Project Overview
@@ -23,10 +23,10 @@ A Colorado Board of Elections employee as given you the following tasks to compl
 - Data Source: election_results.csv
 - Software: Python 3.6.1, Visual Studio Code, 1.38.1
 
-<a name="Election Audit Results"></a>
+<a name="Election-Audit-Results"></a>
 ## Election Audit Results
 
-<a name="Election Audit Summary"></a>
+<a name="Election-Audit-Summary"></a>
 ## Election Audit Summary
 The analysis of the election show that:
 - There were "x" votes cast in the election.
