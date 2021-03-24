@@ -49,6 +49,7 @@ Seth and Tom need help conducting an election audit for the Colorado Board of El
 <a name="Election-Audit-Summary"></a>
 ## Election Audit Summary
 
+This script can be effectively used to calculate votes for every election to count votes more accurately.  The votes are represented not only in a total vote count, but also in a percentage. The percentage allows for easier interpretation of the data and also normalizes the data, which allows for accurate reporting of who the winner is.
 This script can be used for any election by adjusting the load file and save file paths. 
 ![alt text](Resources/Load_Save_File.png)
 
