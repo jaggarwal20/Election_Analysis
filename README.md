@@ -42,18 +42,11 @@ Seth and Tom need help conducting an election audit for the Colorado Board of El
   
 * Determine the winner of the election based on popular vote.
 
+  The winner of the election is Diana DeGette who received 73.8% of the votes and 272,892 number of votes. 
+
 
 <a name="Election-Audit-Summary"></a>
 ## Election Audit Summary
-The analysis of the election show that:
-- There were "x" votes cast in the election.
-- The candidates were:
-  - Candidate 1
-  - Candidate 2
-  - Candidate 3
-- The candidate results were:
-  - Candidate 1 received "x%" of the vote and "y" number of votes.
-  - Candidate 2 received "x%" of the vote and "y" number of votes.
-  - Candidate 3 received "x%" of the vote and "y" number of votes.
-- The winner of the election was:
-  - Candidate (1, 2, or 3), who received "x%" of the vote and "y" number of votes.
+
+This script can be used for any election by adjusting the load file and save file paths. The variables can also be adjusted to represent the data more accurately. For instance if the votes is on a state level rather than a county level. 
+
