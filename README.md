@@ -49,7 +49,7 @@ Seth and Tom need help conducting an election audit for the Colorado Board of El
 ## Election Audit Summary
 
 This script can be used for any election by adjusting the load file and save file paths. 
-[alt text]!(Resources/Load_Save_File.png)
+![alt text] (Resources/Load_Save_File.png)
 
 The variables can also be adjusted to represent the data more accurately. For instance if the votes is on a state level rather than a county level. 
 
