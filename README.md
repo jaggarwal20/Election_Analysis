@@ -44,6 +44,7 @@ Seth and Tom need help conducting an election audit for the Colorado Board of El
 
   The winner of the election is Diana DeGette who received 73.8% of the votes and 272,892 number of votes. 
 
+![alt text](Resources/election_analysis.png)
 
 <a name="Election-Audit-Summary"></a>
 ## Election Audit Summary
