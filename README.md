@@ -33,9 +33,13 @@ Seth and Tom need help conducting an election audit for the Colorado Board of El
   - Arapahoe County received 24801 votes, which is 6.7% of the total votes. 
   
 * Which county had the largest number of votes?
- - Denver
+  - Denver
  
-* Calclate the percentage of votes each candidate won.
+* Number and percentage of votes each candidate received. 
+  - Charles Casper received 23.0% of the vote and 85,213 number of votes.
+  - Diana DeGette received 73.8% of the vote and 272,892 number of votes.
+  - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
+  
 * Determine the winner of the election based on popular vote.
 
 
